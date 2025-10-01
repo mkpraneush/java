@@ -1,4 +1,4 @@
-public class simple {
+public class datatype {
     public static void main(String[] args) {
         System.out.println("hello frnds");
     }
